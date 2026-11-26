@@ -1,0 +1,294 @@
+{
+  "goat": {
+    "4ok3usBNeis": {
+      "episode_id": "0",
+      "tasks_sha256": "14dd99525f403549ae362e7842fc892a289577b90c9af0b4192402ab823340d5"
+    },
+    "5cdEh9F2hJL": {
+      "episode_id": "0",
+      "tasks_sha256": "2a9e97379ab330e88c4f5e7394754d9b5cf2047c791f6d79c9f3799387c27b66"
+    },
+    "6s7QHgap2fW": {
+      "episode_id": "0",
+      "tasks_sha256": "0bcb834d5f4d9f4ea430fea6b83c9627ccd94f16eb28e58a04eee3ab7bcdd870"
+    },
+    "7MXmsvcQjpJ": {
+      "episode_id": "0",
+      "tasks_sha256": "3c6072534003175ddb312c015410a4e81f9f54cbd81ca62a34b987be28250cfb"
+    },
+    "BAbdmeyTvMZ": {
+      "episode_id": "0",
+      "tasks_sha256": "835fedacdd7098e870ed8451987076226843d2e09cdbd64dcc2aba1765f7f656"
+    },
+    "CrMo8WxCyVb": {
+      "episode_id": "0",
+      "tasks_sha256": "479b77a75335efe9f8d52d72c8e4ae8d76ab621885c558fd83cc115e21965bf4"
+    },
+    "DYehNKdT76V": {
+      "episode_id": "0",
+      "tasks_sha256": "87deb189765b67e926230c6af05b70f401328f6fa8bfefbc547ad3163bc27eb3"
+    },
+    "Dd4bFSTQ8gi": {
+      "episode_id": "0",
+      "tasks_sha256": "30893faf68156ca50a314ab443ef1f264143e4f53847303fdd432715dc6063dc"
+    },
+    "GLAQ4DNUx5U": {
+      "episode_id": "0",
+      "tasks_sha256": "c32db65105128dc5eec0800139ac1b62b8dcd28aaf41ea8c3b874f2b0dd60d65"
+    },
+    "HY1NcmCgn3n": {
+      "episode_id": "0",
+      "tasks_sha256": "c8e47b02ac01fa5cd7897fc444e94dd93b6fe07d8c3429f4403166a50a91b31f"
+    },
+    "LT9Jq6dN3Ea": {
+      "episode_id": "0",
+      "tasks_sha256": "4527c848458231e4d25e3929df0ed6ed6891894e173e7dec7ed3346a861db7a8"
+    },
+    "MHPLjHsuG27": {
+      "episode_id": "0",
+      "tasks_sha256": "f59c29fee8ddc3af058340c195aa546b9154ab1ce77c9b8242df7d53c2697668"
+    },
+    "Nfvxx8J5NCo": {
+      "episode_id": "0",
+      "tasks_sha256": "1f42800622477c01e32b499f1bf1f744998c9a2ca1dd8f95160af97683fbc981"
+    },
+    "QaLdnwvtxbs": {
+      "episode_id": "0",
+      "tasks_sha256": "eae6093f04c2cea278a028a833d7c9899168d5b96322793f6fc5954983f8c309"
+    },
+    "TEEsavR23oF": {
+      "episode_id": "0",
+      "tasks_sha256": "709b373142c345e744987f0ca0bf439e36c27b9ba53c2e288fdf879261744b8d"
+    },
+    "VBzV5z6i1WS": {
+      "episode_id": "0",
+      "tasks_sha256": "4f84e6bdaaeadc76f2f210d3819bfe64255a023f5694f508e6d48586a78c468e"
+    },
+    "XB4GS9ShBRE": {
+      "episode_id": "0",
+      "tasks_sha256": "f161c599c2a569c6fadd313e8afce385dc2d4f1928fa8d41ffeb6464fe70c9f4"
+    },
+    "a8BtkwhxdRV": {
+      "episode_id": "0",
+      "tasks_sha256": "2b34b3c55c11c6f96988bd06590db0a098f1c8142fb752c2de6631942e3131b3"
+    },
+    "bCPU9suPUw9": {
+      "episode_id": "0",
+      "tasks_sha256": "94146e84b3b1fe53c00a5812aa9c31447be7b35a3f76a7fd076b52cefe03aba8"
+    },
+    "bxsVRursffK": {
+      "episode_id": "0",
+      "tasks_sha256": "6cead1015af364299ed60de10cf5f87e134b3597082318694e56638842e59ca1"
+    },
+    "cvZr5TUy5C5": {
+      "episode_id": "0",
+      "tasks_sha256": "7e0b640673da3081883f08ec3fbb68398dd3c9d6848da75fec7790b0affc45cb"
+    },
+    "eF36g7L6Z9M": {
+      "episode_id": "0",
+      "tasks_sha256": "2e1ece4cd5c888ea99184e48910306f42ba24a6ed1714696548cbe8bf4eee329"
+    },
+    "h1zeeAwLh9Z": {
+      "episode_id": "0",
+      "tasks_sha256": "6630fbaf69a3040aac763120a626d14c5fc24cbb75967c3c0ee4cb3513e704d3"
+    },
+    "k1cupFYWXJ6": {
+      "episode_id": "0",
+      "tasks_sha256": "24c051c7f26c750faad70189925ee897aace09abe62e71e8c9e490a90f8ab146"
+    },
+    "mL8ThkuaVTM": {
+      "episode_id": "0",
+      "tasks_sha256": "80decaebb868ba2edc0ae1b5b131d6ab2b4fbe3726ef3ff8a4b5b857c826d5b8"
+    },
+    "mv2HUxq3B53": {
+      "episode_id": "0",
+      "tasks_sha256": "1919d6b5e3c623ea3fbfb7527c64f8b66140c72197785a5f20d5f4fb33d4eaf6"
+    },
+    "p53SfW6mjZe": {
+      "episode_id": "0",
+      "tasks_sha256": "ecbe4d5d1bae647bdffa6f32dfc829e9a9fd1fae5ff3e79acd1c0ff9cd28ed33"
+    },
+    "q3zU7Yy5E5s": {
+      "episode_id": "0",
+      "tasks_sha256": "6a42d7fd42557309b086d2b5443917a587944ede14bebcfded98c33154d7206d"
+    },
+    "q5QZSEeHe5g": {
+      "episode_id": "0",
+      "tasks_sha256": "7bf4357151a5e5753b2b172f6e91eed0f8dcc9ce39a0310137ab9fa5e63944b1"
+    },
+    "qyAac8rV8Zk": {
+      "episode_id": "0",
+      "tasks_sha256": "c2d11d39bb06ac12b4e26e920b7101016641b16c037c4d8181cc81a67d9b5507"
+    },
+    "svBbv1Pavdk": {
+      "episode_id": "0",
+      "tasks_sha256": "9b3d2b133a60b062a5fe97e723f25970348a21c16582b8127e7dbc8c7f38a289"
+    },
+    "wcojb4TFT35": {
+      "episode_id": "0",
+      "tasks_sha256": "756e1b8b832f7b343c69508fb3e33b19f0620ad57eaca88caf5d152c824c6c05"
+    },
+    "y9hTuugGdiq": {
+      "episode_id": "0",
+      "tasks_sha256": "7f09936b0e1695896cffbcc294e10201cb9b65b0044a8a86c62a293f6e8006b2"
+    },
+    "yr17PDCnDDW": {
+      "episode_id": "0",
+      "tasks_sha256": "8e0a56bf075d803b83779082369e919d167bc5f22d2b2fa9d4862d4028ecd2c8"
+    },
+    "ziup5kvtCCR": {
+      "episode_id": "0",
+      "tasks_sha256": "aa26a5257aab2550bd0fff19b06439414bae918d04d086b3a88b7cdd9c78eb6f"
+    },
+    "zt1RVoi7PcG": {
+      "episode_id": "0",
+      "tasks_sha256": "fbc816980c0aa5e06e7daa31fcfae7677d11ac7b3cc422f1ce0e07f104556b11"
+    }
+  },
+  "lingbot": {
+    "s_1af07d2a6111": {
+      "episode_id": "SC06T01",
+      "tasks_sha256": "35bb4985cddb0a5795d02549ad98f96c27df81968c8b7f0d6b4caf828ce946eb"
+    },
+    "s_2785d6c49df7": {
+      "episode_id": "N28T01",
+      "tasks_sha256": "ecaf5a4c637850faf1c1bfc9ef54cef00d3e8c7e01c1a08cbec40d965421de9d"
+    },
+    "s_282fff27ed42": {
+      "episode_id": "SC23T01",
+      "tasks_sha256": "1e0b411db71b2fd01c5623a8da1b9209f0d64696c933ffc0c2244426d63137b1"
+    },
+    "s_30cf37d9f1a4": {
+      "episode_id": "SC01T01",
+      "tasks_sha256": "9f1e4c36cfa3f4c699a6801d6fefe36c5f61e851d5e66b5f6d287a489766bfc6"
+    },
+    "s_354f13b31d3a": {
+      "episode_id": "SC05T01",
+      "tasks_sha256": "d124504b46f565b3316f373187e81c979b233fa1fa23691c113a50b092f2bdeb"
+    },
+    "s_36c9780e0062": {
+      "episode_id": "N27T01",
+      "tasks_sha256": "e6357e80fc9c97ffc6a86016eddbc123a3ba48056a9e32007e826cdf71f55f52"
+    },
+    "s_38aa735b6dad": {
+      "episode_id": "SC17T01",
+      "tasks_sha256": "abeceee17bb98a7311a407ae095cce498c4c3c9359eaf586783ea4ad2f581167"
+    },
+    "s_475d58a5a405": {
+      "episode_id": "N10T01",
+      "tasks_sha256": "502910b33dbdeb2852d5c5fb93b5160c21046ceead7a3189a42fbc81b175254e"
+    },
+    "s_490eb493c533": {
+      "episode_id": "SC07T01",
+      "tasks_sha256": "1e8741e201f8a11709b6c48a733679b8e0655b4bca23b4cf4701ae1ddf1e11a3"
+    },
+    "s_5205d8ac8998": {
+      "episode_id": "MAYI01",
+      "tasks_sha256": "ba54ecf3b2408a71e239308cc1a7f92275541a7f8ca9e1371174bf6aaabcc7af"
+    },
+    "s_59121081f046": {
+      "episode_id": "SC14T01",
+      "tasks_sha256": "fcce09c82eab1e5d5960f49de8ea7c24951a71285bceb5c702fdb5d807adf100"
+    },
+    "s_5cae8b807b1a": {
+      "episode_id": "SC18T01",
+      "tasks_sha256": "177e2d381fea62caf19ebb79dfe91973700082e99ad20ffb7c7b282a8f57405f"
+    },
+    "s_660d36a0ba57": {
+      "episode_id": "N14T01",
+      "tasks_sha256": "09d6d673ecc67d602253ceae3fafff55215e88f5315834403b7349a49e90c59e"
+    },
+    "s_678c1747e0b2": {
+      "episode_id": "SC10T01",
+      "tasks_sha256": "54c4a668113d944b54a098fdf451d602493fa17d97de0b5f970c99dcbc53aceb"
+    },
+    "s_694f897d8a21": {
+      "episode_id": "N03T01",
+      "tasks_sha256": "57bf86c13128cda03d73e3e91c4c4156a76365af92d539ba67d77e9d470bcada"
+    },
+    "s_6bac0e69593e": {
+      "episode_id": "GYM01",
+      "tasks_sha256": "6aed43a2e91861c50d15f05a2ab0a772722948af670fa681d60c0e34425550f5"
+    },
+    "s_6d6c24813867": {
+      "episode_id": "HOTEL01",
+      "tasks_sha256": "dba0a15a1ada0c8e8ca0e63c8d84a6608d94ddbb1fdd119f44af92a70c7b6d40"
+    },
+    "s_791c7f565da9": {
+      "episode_id": "SC21T01",
+      "tasks_sha256": "ee456e798a84a8fa382694866691aa25be5fecded062461aea93ab451cdd1d73"
+    },
+    "s_82a53a65f016": {
+      "episode_id": "SC15T01",
+      "tasks_sha256": "07f9869d605df909b524bca07a63d82a70776449e174db39b83ecada6a38b60c"
+    },
+    "s_881619099824": {
+      "episode_id": "SC22T01",
+      "tasks_sha256": "c39954106e12f44bfeb38f4cc70ac8718cda2c36b89a4b6be4f840f4df74e47c"
+    },
+    "s_93d2d676b178": {
+      "episode_id": "N09T01",
+      "tasks_sha256": "1d247de2755a05ad47a53db0a9dc5d64257c9cd5e04639eb91787a1dae78db78"
+    },
+    "s_99b6bde5a866": {
+      "episode_id": "SC19T01",
+      "tasks_sha256": "fc675460e3df1093462e38b4cd0e06a29a6a77e1af4ffbf91a4afe44a6f67836"
+    },
+    "s_ae25418e7c2e": {
+      "episode_id": "SC04T01",
+      "tasks_sha256": "f4729e7d0eeea995bf86c1f2d8d2a5768af68f2bc47fcabdbb2bde73dd332c82"
+    },
+    "s_b1078a6d4988": {
+      "episode_id": "N30T01",
+      "tasks_sha256": "ad5c28c26acd62abe25992c42460cd131c06a0db8ecf98215cf36b3de27adb35"
+    },
+    "s_b2f6c26aaebf": {
+      "episode_id": "SC11T01",
+      "tasks_sha256": "44795b7be4d5fd23d63dd7f6745f66004353beea31dea164f2fe170214c9d1a5"
+    },
+    "s_b7cc1435d6ce": {
+      "episode_id": "WANDA01",
+      "tasks_sha256": "15cb7f81146e7a9f6742131ad6e943a6f95db7e4b163edf904c6d07380ff76e5"
+    },
+    "s_bb224828ca6d": {
+      "episode_id": "SC03T01",
+      "tasks_sha256": "55e236df008891393af228fcbfbbeaf17312fba98ddcb951b8cc9e9510e1ddc4"
+    },
+    "s_c14d5e5848e7": {
+      "episode_id": "N25T01",
+      "tasks_sha256": "a20484a0609c1f38bce6fafb7659c117d4de397d1cece95375232de7c163db17"
+    },
+    "s_c15f8776aeff": {
+      "episode_id": "N22T01",
+      "tasks_sha256": "ae23a7eb59f1185ec12d435764ecc489004548e119ecf6032c155967832c1963"
+    },
+    "s_c6585ff41002": {
+      "episode_id": "SC09T01",
+      "tasks_sha256": "43c037b5b8449cf5ae5bf67a3f41893bd088d20b942ccfb43dbe540381b80a8c"
+    },
+    "s_c8569ed0b68a": {
+      "episode_id": "SC25T01",
+      "tasks_sha256": "563c658b17a18995657f3bb5dae4204056b06aae5d71df163a67bf890a899727"
+    },
+    "s_c9eae72dd278": {
+      "episode_id": "N07T01",
+      "tasks_sha256": "89aa2511281a424a75b96575b4cc36a33649858cff8ee92fa65f17942a61ace9"
+    },
+    "s_ca3c9212d1cf": {
+      "episode_id": "SC13T01",
+      "tasks_sha256": "f30ba356be710179a1521900dda071da3bb1cdc4098435ced503b222fa8d034f"
+    },
+    "s_d42e3d3138af": {
+      "episode_id": "N29T01",
+      "tasks_sha256": "6e88c8cb3661a6814bc50414bbf25a9aafe1cd81275dbf4da37bf5a9123fdb25"
+    },
+    "s_edf45b7e92e5": {
+      "episode_id": "N06T01",
+      "tasks_sha256": "ab21f6387f8052d351c9cbf5a32c85ae6fc7a75a0528f5f1753cf6a877c26bfe"
+    },
+    "s_f270309d8087": {
+      "episode_id": "N15T01",
+      "tasks_sha256": "b2c9bc815cf58260846ae36870ff5dc18a3e394494d4cf0b354500f370596462"
+    }
+  }
+}

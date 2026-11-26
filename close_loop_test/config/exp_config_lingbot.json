@@ -1,0 +1,14 @@
+{
+  "dataset": "lingbot",
+  "map1": false,
+  "budget": 500,
+  "seed": 42,
+  "max_voxels": 500000,
+  "weights": "../../ckpts/lingbot-navi/navigation_transformer/model.safetensors",
+  "map1_checkpoint": "../../ckpts/lingbot-map/lingbot-map.pt",
+  "init_explore_steps": 1000,
+  "dataset_release": "../../datasets/lingbot",
+  "manifest_sha256": "485a832b977023a02200f55e57dac4b6ee24639e450745027570668cb65e62e2",
+  "gpu": 0,
+  "parallelism": 1
+}

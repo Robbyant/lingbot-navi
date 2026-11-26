@@ -1,0 +1,23 @@
+# Shared inference, Spatial Memory production, and offline visualization.
+torch==2.8.0
+torchvision==0.23.0
+transformers==5.9.0
+safetensors>=0.5,<1
+numpy==2.2.6
+Pillow==10.4.0
+qwen-vl-utils==0.0.14
+PyYAML>=6,<7
+gsplat==1.5.3
+scipy>=1.10,<2
+opencv-python==4.11.0.86
+einops==0.8.2
+# Streaming inference only; no LingBot-Map viewer/demo extras.
+lingbot-map @ git+https://github.com/Robbyant/lingbot-map.git@b9dd1b1de535e6d36e777fb42b8433c781bfd783
+
+# GOAT closed-loop evaluation and CUDA mesh rendering (Python >=3.10).
+# Habitat-Sim is a separate native build; a matching Python build is required.
+habitat-lab==0.3.220241031
+habitat-baselines==0.3.320260507
+trimesh
+ninja
+nvdiffrast @ git+https://github.com/NVlabs/nvdiffrast.git@253ac4fcea7de5f396371124af597e6cc957bfae

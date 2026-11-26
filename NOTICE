@@ -1,0 +1,32 @@
+LingBot-Navi
+
+The project's original code is distributed under the Apache License, Version 2.0;
+see LICENSE. Third-party portions retain their respective copyright notices
+and license terms.
+
+Pi3 pose head and SO(3) projection
+Copyright (c) 2025 the authors. All rights reserved.
+Adapted from yyfz/Pi3 commit 97ae7a43296541859d3c55eae70481f561a6789f,
+pi3/models/layers/camera_head.py:
+https://github.com/yyfz/Pi3/blob/97ae7a43296541859d3c55eae70481f561a6789f/pi3/models/layers/camera_head.py
+The original source license and disclaimer are retained in licenses/LICENSE.pi3.
+Modifications include an input-width adapter, variable-length token pooling,
+FP32 computation, optional scale prediction, and separate pose outputs.
+Source attribution and adaptation details are retained in
+lingbot_navi/navigation_transformer/model/ego_blocks/pi3_pose.py. No Pi3 pretrained weights are included.
+
+Qwen3.5-4B base model and LingBot-Navi checkpoint
+Copyright 2026 Alibaba Cloud.
+Source: https://huggingface.co/Qwen/Qwen3.5-4B
+Licensed under the Apache License, Version 2.0; see licenses/LICENSE.Qwen3.5.
+LingBot-Navi uses Qwen3.5-4B through Hugging Face Transformers and adds learned
+spatial-memory conditioning, spatial/trajectory adapters, structured output
+tokens, and coordinate, pose and trajectory prediction components.
+The complete LingBot-Navi checkpoint combines base-model weights and task
+parameters in one safetensors file, with adjacent tokenizer and processor files.
+It is a LingBot-Navi derivative, not an unchanged official Qwen checkpoint.
+This modification notice was added by LingBot-Navi; it is not an upstream
+Qwen NOTICE file. Model weights are distributed separately from this repository.
+
+Example assets
+The bundled example assets are provided by the LingBot-Navi team.

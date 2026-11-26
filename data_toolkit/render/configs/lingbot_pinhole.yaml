@@ -1,0 +1,8 @@
+# Output pinhole calibration. Camera-to-world pose is supplied for every render.
+# 640x480, horizontal field of view 120 degrees.
+width: 640
+height: 480
+K:
+  - [184.7520861406803, 0.0, 320.0]
+  - [0.0, 184.7520861406803, 240.0]
+  - [0.0, 0.0, 1.0]

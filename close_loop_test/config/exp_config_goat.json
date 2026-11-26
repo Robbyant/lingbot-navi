@@ -1,0 +1,16 @@
+{
+  "dataset": "goat",
+  "map1": false,
+  "budget": 500,
+  "seed": 42,
+  "max_voxels": 500000,
+  "weights": "../../ckpts/lingbot-navi/navigation_transformer/model.safetensors",
+  "map1_checkpoint": "../../ckpts/lingbot-map/lingbot-map.pt",
+  "init_explore_steps": 200,
+  "goat_root": "../../third_party/goat-bench",
+  "data_root": "../../datasets/goat/hm3d/v1",
+  "scene_root": "../../datasets/goat/scene_datasets",
+  "split": "val_unseen",
+  "gpu": 0,
+  "parallelism": 1
+}

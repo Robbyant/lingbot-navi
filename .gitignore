@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+*.safetensors
+*.pt
+*.pth
+*.npz
+checkpoints/
+outputs/
+.ruff_cache/
+
+# One intentionally bundled inference example.
+!examples/sample_data/memory.npz
+
+# Gaussian scene assets are distributed separately.
+examples/sample_data/gs/*.ply
+examples/sample_data/gs/*.splat
+
+# User-managed external evaluation dependencies and environment.
+third_party/
+
+# Local datasets and checkpoints (including symlinks).
+/datasets/*
+!/datasets/.gitkeep
+/ckpts/*
+!/ckpts/.gitkeep
+
+# Development audits and retired one-off tools are not release artifacts.
+/work/
